@@ -1,4 +1,4 @@
- import requests
+ imporrequests
 
 API_KEY = "your_api_key_here"  # Replace this with your actual API key
 BASE_URL = "http://api.weatherapi.com/v1/history.json"
